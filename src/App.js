@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { ethers } from 'ethers'
 import './App.css';
 import Greeter from './artifacts/contracts/Greeter.sol/Greeter.json'
-import { EtherscanProvider } from '@ethersproject/providers';
+//import { EtherscanProvider } from '@ethersproject/providers';
 
 const greeterAddress = "0x5fbdb2315678afecb367f032d93f642f64180aa3";
 
